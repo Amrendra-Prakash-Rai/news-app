@@ -1,0 +1,76 @@
+{
+  "status": "ok",
+  "totalResults": 69,
+  "articles": [
+    {
+      "source": { "id": "spiegel-online", "name": "Spiegel Online" },
+      "author": "DER SPIEGEL",
+      "title": "Weniger Inhalt, höherer Preis: Verbraucher wählen Fertigsoße zur »Mogelpackung des Jahres« - DER SPIEGEL",
+      "description": "Über diesen Titel wird sich der Hersteller nicht freuen: Die »Paprika Sauce« von Homann ist per Abstimmung zur »Mogelpackung des Jahres« gekürt worden. Grund: eine versteckte Preiserhöhung.",
+      "url": "https://www.spiegel.de/wirtschaft/service/mogelpackung-des-jahres-verbraucher-waehlen-paprika-sauce-von-homann-a-86b3b124-223a-46bc-bf05-80364192f8c2",
+      "urlToImage": "https://cdn.prod.www.spiegel.de/images/4f3e6fd2-578a-45f9-bd39-a09aa183b176_w1028_r1.77_fpx47.67_fpy44.89.jpg",
+      "publishedAt": "2022-01-25T09:31:11Z",
+      "content": "Fünf Produkte hat die Verbraucherzentrale Hamburg zur Auswahl gestellt, nun haben Konsumenten in einer Online-Abstimmung entschieden. Demnach sehen die meisten von ihnen bei der »Paprika Sauce« von H… [+2180 chars]"
+    },
+    {
+      "source": { "id": "spiegel-online", "name": "Spiegel Online" },
+      "author": "DER SPIEGEL",
+      "title": "»AI Research SuperCluster«: Metas Supercomputer soll der schnellste seiner Art werden - DER SPIEGEL",
+      "description": "Der Facebook-Mutterkonzern Meta will 16.000 Nvidia-Chips vernetzen – und so den schnellsten KI-Supercomputer der Welt bauen. Was die Maschine alles kann. Und warum man sie nicht nach dem Wetter fragen sollte.",
+      "url": "https://www.spiegel.de/netzwelt/gadgets/ai-research-supercluster-metas-supercomputer-soll-der-schnellste-seiner-art-werden-a-130b2ae3-24a6-4643-8a86-9dfade410952",
+      "urlToImage": "https://cdn.prod.www.spiegel.de/images/994915d5-989d-43c1-bdba-36f533d5728b_w1280_r1.77_fpx50.84_fpy50.jpg",
+      "publishedAt": "2022-01-25T09:16:59Z",
+      "content": "Wenn er fertig ist, soll Metas neuer Supercomputer helfen, Echtzeit-Übersetzungen in großen Gruppen zu ermöglichen, schädliche Inhalte auf Facebook und Instagram zu entdecken, neue Augmented-Reality-… [+2689 chars]"
+    },
+    {
+      "source": { "id": null, "name": "Godmode-trader.de" },
+      "author": "GodmodeTrader-Team",
+      "title": "DAX: Hinfallen, aufstehen, Krone richten, weitergehen - ifo: Hoffnungsschimmer für die Deutsche Wirtschaft - GodmodeTrader.de Finanznachrichten",
+      "description": "Immer bestens informiert: Mit dem News-Flash auf Godmode-Trader.de haben Sie die wichtigsten Ereignisse des Tages auf einen Blick!",
+      "url": "https://www.godmode-trader.de/artikel/dax-stabilisierung-usa-senden-signal-an-russland,10459579",
+      "urlToImage": "https://www.godmode-trader.de/articleimage/10459579.image",
+      "publishedAt": "2022-01-25T09:10:00Z",
+      "content": "The copyright of Nikkei 225 is owned by Nikkei Inc.\r\nThe Dow Jones IndicesSM are proprietary to and distributed by CME Group Index Services LLC and have been licensed for use.\r\nFor the Terms and Cond… [+388 chars]"
+    },
+    {
+      "source": { "id": null, "name": "Tuningblog.eu" },
+      "author": "tuningblog",
+      "title": "Über 400 PS: der Hennessey VelociRaptor 400 Ford Bronco! - tuningblog.eu",
+      "description": "Im Juli 2021 teaserte der texanische Tuner Hennessey Performance den sogenannten VelociRaptor 400 an. Ein deutlich leistungsfähiger Ford Bronco mit ca. 400 PS und ein paar Offroad-Goodies. Und quasi z",
+      "url": "https://www.tuningblog.eu/kategorien/autos-von-a-z/velociraptor-400-393380/",
+      "urlToImage": "https://www.tuningblog.eu/wp-content/uploads/2022/01/Hennessey-VelociRaptor-400-Ford-Bronco-2022-Tuning-Header.jpg",
+      "publishedAt": "2022-01-25T09:03:40Z",
+      "content": "Lesezeit 3Minuten\r\nIm Juli 2021 teaserte der texanische Tuner Hennessey Performance den sogenannten VelociRaptor 400 an. Ein deutlich leistungsfähiger Ford Bronco mit ca. 400 PS und ein paar Offroad-… [+3977 chars]"
+    },
+    {
+      "source": { "id": null, "name": "N-tv.de" },
+      "author": "n-tv NACHRICHTEN",
+      "title": "50 Jahre Ford Granada: Attacke gegen den automobilen Hochadel - n-tv NACHRICHTEN",
+      "description": "Mit dem Granada bot Ford Luxus, Lifestyle und viel Platz zum kleinen Preis. Lange vor Mercedes oder BMW machte der Granada große Kombis gesellschaftsfähig und mit seinem V6-Triebwerk avancierte das Topmodell zum bürgerlichen Statussymbol und wurde so zur Atta…",
+      "url": "https://www.n-tv.de/auto/Attacke-gegen-den-automobilen-Hochadel-article23081700.html",
+      "urlToImage": "https://bilder1.n-tv.de/img/incoming/crop23081856/3371328176-cImg_16_9-w1200/02-Ford-Consul-ab-1972-links-Coupe-und-rechts-Limousine-Quelle-Ford.jpg",
+      "publishedAt": "2022-01-25T08:49:00Z",
+      "content": "Mit dem Granada bot Ford Luxus, Lifestyle und viel Platz zum kleinen Preis. Lange vor Mercedes oder BMW machte der Granada große Kombis gesellschaftsfähig und mit seinem V6-Triebwerk avancierte das T… [+7796 chars]"
+    },
+    {
+      "source": { "id": null, "name": "Finanzen.net" },
+      "author": "finanzen.net Redaktion",
+      "title": "Deutsche Bank erwartet Leitzinserhöhung im Euroraum bereits im Dezember - finanzen.net",
+      "description": "Im Gegensatz zur allgemeinen Erwartung rechnet die Deutsche Bank bereits für Ende Dezember dieses Jahres mit einer Leitzinserhöhung durch die Europäische Zentralbank.",
+      "url": "https://www.finanzen.net/nachricht/zinsen/entgegen-der-erwartungen-deutsche-bank-erwartet-leitzinserhoehung-im-euroraum-bereits-im-dezember-10956271",
+      "urlToImage": "https://images.finanzen.net/mediacenter/unsortiert/ezb-frankfurt-by-a-hesse-660.jpg",
+      "publishedAt": "2022-01-25T08:12:00Z",
+      "content": "Die EZB stufe zwar eine Leitzinserhöhung im Jahr 2022 weiterhin als \"unwahrscheinlich\" ein, sage jedoch auch, dass sie einen datenabhängigen Ansatz verfolgen werde, schrieben die Analysten des Finanz… [+1437 chars]"
+    },
+    {
+      "source": { "id": null, "name": "Faz.net" },
+      "author": "Christian Müßgens, Gustav Theile",
+      "title": "VW und Bosch verbünden sich für Roboterautos - FAZ - Frankfurter Allgemeine Zeitung",
+      "description": "Die Hoffnung in autonom fahrende Autos ist groß. Jetzt schließen sich zwei deutsche Schwergewichte zusammen – doch andere sind weiter.",
+      "url": "https://www.faz.net/aktuell/wirtschaft/digitec/vw-und-bosch-verbuenden-sich-fuer-roboterautos-17749452.html",
+      "urlToImage": "https://media1.faz.net/ppmedia/aktuell/1624496163/1.7749457/facebook_teaser/ein-autonom-fahrendes-testauto.jpg",
+      "publishedAt": "2022-01-25T08:05:44Z",
+      "content": "Das Auto fährt sich selbst, der Fahrer tut in der Zeit Dinge, die schöner oder nützlicher sind, als auf Verkehrsschilder zu achten oder sich über andere Autofahrer zu ärgern autonom fahrende Robotera… [+2548 chars]"
+    }
+  ]
+}
